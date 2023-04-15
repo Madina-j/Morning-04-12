@@ -21,6 +21,8 @@ const doProblem = async () => {
       : null;
   }
   console.log(newArrayLess165);
+  // Hard - loop thorugh and find the tallest and shortest males and females.
+
   // do your work here inside this function
 };
 doProblem();
